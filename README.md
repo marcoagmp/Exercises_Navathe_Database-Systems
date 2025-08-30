@@ -4,5 +4,15 @@ Repositório de exercícios do livro "Fundamentals of Database Systems", 6ªed -
 ## Capítulo 4: SQL Básico
 4.5.: Baseado nas imagens do banco de dados (Fig.1) e o esquema relacional (Fig.2) das imagens abaixo, defina quais são as restrições de integridade refencial que garantem a integridade do esquema relacional. Mostre os _statements_ em SQL que definem a estrutura do banco de dados. 
 
-![Fig.1-Tabelas do Esquema de Universidade](esquema_db_universidade.jpeg) 
-![Fig.2-Esquema Relacional](valores_db_universidade.jpeg). 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="valores_db_universidade.jpeg" alt="Fig.1-Tabelas do Esquema de Universidade" height="300px"/><br>
+      <b>Figura 1:</b> Tabelas do Esquema de Universidade
+    </td>
+    <td align="center">
+      <img src="esquema_db_universidade.jpeg" alt="Fig.2-Esquema Relacional" height="300px"/><br>
+      <b>Figura 2:</b> Esquema Relacional
+    </td>
+  </tr>
+</table>
