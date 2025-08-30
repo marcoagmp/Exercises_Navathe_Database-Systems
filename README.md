@@ -18,3 +18,6 @@ Repositório de exercícios do livro "Fundamentals of Database Systems", 6ªed -
 </table>
 
 O código utilizando para criar o _design_ do esquema relacional encontra-se no [Exercício 4.5](Exercicio_4.5)
+
+4.6.: A questão agora é fazer o mesmo do exercício acima para o banco de dados da Figura 3 abaixo: 
+
