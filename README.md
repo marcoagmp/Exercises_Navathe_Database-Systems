@@ -21,3 +21,6 @@ O código utilizando para criar o _design_ do esquema relacional encontra-se no 
 
 4.6.: A questão agora é fazer o mesmo do exercício acima para o banco de dados da Figura 3 abaixo: 
 
+<div align="center">
+  <img src="database_airline.jpeg" alt="Figura 3" height="300px" , width="45%" />
+</div>
