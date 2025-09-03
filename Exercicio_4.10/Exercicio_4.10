@@ -1,0 +1,3 @@
+select CONCAT(Fname," ", Minit," ", Lname) AS Name, Pname, Dnum, Hours
+FROM employee as e, works_on as w, project as p
+WHERE Dnum='5' AND w.Essn=e.ssn AND (Pname='ProductX' AND Hours > 10);
